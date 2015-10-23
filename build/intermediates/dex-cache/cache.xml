@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Shreekumar\.gradle\caches\modules-2\files-2.1\org.apache.directory.studio\org.apache.commons.io\2.4\b98d592c582262b3da8a871c7317f4902d98e996\org.apache.commons.io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b98d592c582262b3da8a871c7317f4902d98e996">
+        <dex dex="C:\Users\Shreekumar\AndroidStudioProjects\MyApplication9\app\build\intermediates\pre-dexed\debug\org.apache.commons.io-2.4-f69f168880cc4c11bdb51530a026154cf338a3e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shreekumar\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Shreekumar\AndroidStudioProjects\MyApplication9\app\build\intermediates\pre-dexed\debug\commons-io-2.4-26acd753040c84a65a8cb9a9a6939b5c79351b23.jar" />
+    </item>
+
+</items>
